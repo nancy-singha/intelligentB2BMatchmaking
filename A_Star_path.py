@@ -19,5 +19,6 @@ while SnakeGame.Snake_path(snake.snake_head, snake.grid, path_array, food_array)
         break
     food_array.append(food)
     dir_array = get_path(food, snake)#return
-    #print(dir_array)
+    print(dir_array)
+
 

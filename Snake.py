@@ -226,3 +226,4 @@ def Snake_path(snake, grid, path_array, food):
                     direction = 0
                 elif event.key == K_d and not direction == 3:
                     direction = 1'''
+                'xx'
